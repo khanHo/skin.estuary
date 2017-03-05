@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.estuary-kmod" version="0.0.1" name="Estuary-kmod" provider-name="phil65, Ichabod Fletchman, khanHo">
+<addon id="skin.estuarykmod" version="0.0.1" name="Estuary-kmod" provider-name="phil65, Ichabod Fletchman, khanHo">
 	<requires>
 		<import addon="xbmc.gui" version="5.12.0"/>
 	</requires>
